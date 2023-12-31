@@ -7,3 +7,8 @@ mod item;
 mod encounter;
 mod leaderboard;
 mod ryo;
+mod tile;
+mod map;
+mod player_minigame;
+mod cop;
+mod gangster;
